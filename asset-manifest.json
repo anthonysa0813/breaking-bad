@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/anthonysa0813/breaking-bad.git/static/css/main.f1533fec.chunk.css",
+    "main.js": "/anthonysa0813/breaking-bad.git/static/js/main.da45f144.chunk.js",
+    "main.js.map": "/anthonysa0813/breaking-bad.git/static/js/main.da45f144.chunk.js.map",
+    "runtime-main.js": "/anthonysa0813/breaking-bad.git/static/js/runtime-main.daae4e2a.js",
+    "runtime-main.js.map": "/anthonysa0813/breaking-bad.git/static/js/runtime-main.daae4e2a.js.map",
+    "static/js/2.8910416e.chunk.js": "/anthonysa0813/breaking-bad.git/static/js/2.8910416e.chunk.js",
+    "static/js/2.8910416e.chunk.js.map": "/anthonysa0813/breaking-bad.git/static/js/2.8910416e.chunk.js.map",
+    "index.html": "/anthonysa0813/breaking-bad.git/index.html",
+    "static/css/main.f1533fec.chunk.css.map": "/anthonysa0813/breaking-bad.git/static/css/main.f1533fec.chunk.css.map",
+    "static/js/2.8910416e.chunk.js.LICENSE.txt": "/anthonysa0813/breaking-bad.git/static/js/2.8910416e.chunk.js.LICENSE.txt",
+    "static/media/logo.4543bc50.svg": "/anthonysa0813/breaking-bad.git/static/media/logo.4543bc50.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.daae4e2a.js",
+    "static/js/2.8910416e.chunk.js",
+    "static/css/main.f1533fec.chunk.css",
+    "static/js/main.da45f144.chunk.js"
+  ]
+}
